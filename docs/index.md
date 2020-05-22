@@ -17,4 +17,6 @@ The submission deadline is **Tuesday evening, May 26th, at 8:59 PM PDT.**
 
 ## Resources
 
+* Code.Org [Tech Setup and Tools for the AP Performance Tasks](https://studio.code.org/s/csp-create-2019/stage/1/puzzle/2)
+
 <!-- Pull in repostitory-scope variables from _data/page.yml -->
