@@ -26,6 +26,15 @@ The easisest option may be to use Zoom:
 1. When you are done, end the recording by typing **Shift-Control-R**.
 1. End the Zoom meeting and your recording will be saved. A file selector window should open with the most recent recording selected.
 
+## Editing the Video
+
+### Windows 10
+
+There is a video editor built in to the Windows **Photos** app. To launch it:
+
+* Right-click on your video and select open with **Photos**.
+* Check out [How to Use Windows 10’s Hidden Video Editor](https://www.howtogeek.com/355524/how-to-use-windows-10s-hidden-video-editor/) for more information.
+
 
 
 ## Resources
