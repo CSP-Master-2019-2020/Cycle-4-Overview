@@ -48,5 +48,6 @@ On macOS vhen Zoom saves the video it will open a Finder window showing your rec
 ## Resources
 
 * Code.Org [Tech Setup and Tools for the AP Performance Tasks](https://studio.code.org/s/csp-create-2019/stage/1/puzzle/2)
+* College Board [AP Computer Science Principles: Create Performance Task – Directions and Scoring Guidelines](https://www.youtube.com/watch?v=9d-zQu02rc8)
 
 <!-- Pull in repostitory-scope variables from _data/page.yml -->
