@@ -28,6 +28,10 @@ The easisest option may be to use Zoom:
 
 ## Editing the Video
 
+The College Board limits your video for the Create Task to **one minute** and **30 MB**. To play it safe, I would say 59 seconds and 29 MB. A one minute Zoom video should be comfortably under 30 MB.
+
+The only editing that you *need* to do is to make sure you elimate an material before you start your demonstration and after the end – and to keep it to under a minute.
+
 ### Windows 10
 
 There is a video editor built in to the Windows **Photos** app. To launch it:
