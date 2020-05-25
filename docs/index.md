@@ -32,6 +32,8 @@ The College Board limits your video for the Create Task to **one minute** and **
 
 The only editing that you *need* to do is to make sure you elimate an material before you start your demonstration and after the end – and to keep it to under a minute.
 
+Your video file name will be something like **zoom_0.mp4.**
+
 ### Windows 10
 
 There is a video editor built in to the Windows **Photos** app. To launch it:
@@ -39,7 +41,9 @@ There is a video editor built in to the Windows **Photos** app. To launch it:
 * Right-click on your video and select open with **Photos**.
 * Check out [How to Use Windows 10’s Hidden Video Editor](https://www.howtogeek.com/355524/how-to-use-windows-10s-hidden-video-editor/) for more information.
 
+### macOS
 
+On macOS vhen Zoom saves the video it will open a Finder window showing your recording. Just double click to start editing.
 
 ## Resources
 
